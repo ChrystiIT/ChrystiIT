@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I'm Chrystian 👋
 
-<!--
-**ChrystiIT/ChrystiIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm developing my skills in IT Support, Helpdesk and Cybersecurity.
 
-Here are some ideas to get you started:
+I have hands-on experience with computer configuration, Windows troubleshooting, user support and basic networking. I'm currently expanding my knowledge of system administration, networking and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+Windows 10 / 11
+Computer hardware & troubleshooting
+Microsoft 365
+AnyDesk & TeamViewer
+Basic networking
+TCP/IP
+DNS & DHCP
+Git & GitHub
+📚 Currently learning
+Computer networking
+Linux
+System administration
+Cybersecurity fundamentals
+Git & GitHub
+
+🎓 Education
+Vistula University — Computer Science, Cybersecurity
+Starting October 2026
+
+💻 Projects
+IT Helpdesk Lab
+
+Hands-on IT Support lab covering Windows, networking, Active Directory and troubleshooting.
+
+➡️ View IT-Helpdesk-Lab
+
+📍 Warsaw, Poland
+🎯 Goal: IT Support / Helpdesk → System Administration → Cybersecurity
