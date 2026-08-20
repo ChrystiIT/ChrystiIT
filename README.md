@@ -19,8 +19,8 @@ Linux
 System administration
 Cybersecurity fundamentals
 Git & GitHub
-
 🎓 Education
+
 Vistula University — Computer Science, Cybersecurity
 Starting October 2026
 
@@ -32,4 +32,5 @@ Hands-on IT Support lab covering Windows, networking, Active Directory and troub
 ➡️ View IT-Helpdesk-Lab
 
 📍 Warsaw, Poland
+
 🎯 Goal: IT Support / Helpdesk → System Administration → Cybersecurity
